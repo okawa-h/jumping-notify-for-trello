@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name"       : "Jumping Notify for Trello",
-	"description": "",
+	"description": "Notice of Trello will be fun.",
 	"version"    : "0.1",
 	"icons"      : {
 		"16" : "files/img/icon16.png",
